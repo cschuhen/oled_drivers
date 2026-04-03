@@ -9,7 +9,7 @@ license = "MIT OR Apache-2.0"
 name = "oled_async"
 readme = "README.md"
 repository = "https://github.com/cschuhen/oled_drivers"
-version = "0.2.0"
+version = "0.2.1"
 edition = "2021"
 
 [package.metadata.docs.rs]
